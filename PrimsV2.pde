@@ -60,7 +60,6 @@ void keyPressed(){
 
 //initializes the variables
 void initVariables(){
-  MAXSIZE = 5000;
   HEAPSIZE = (MAXSIZE*(MAXSIZE-1))/2;
   endOfHeap = 0;
   numberOfIterations = 0;
